@@ -1,12 +1,20 @@
-# Guillaume LE GOFF v2
+# Guillaume LE GOFF
 
-![alt text](http://chefdeproj.com/g.legoff/images/maquette.jpg "presentation of the website") <br><br>
-
-[My personnal website](http://chefdeproj.com/g.legoff) is a showcase website<br>
+This project is my personnal website, it's a showcase<br>
 It introduces who I am, the projects I've done and what I am currently working<br>
 
 ------
+## Tech use
 
+- PHP (just for mailing)
+
+Library :
+* Bootstrap
+* Fontawesome
+* Color picker
+* Notify
+
+------
 ## Features
 
 - Download my CV
@@ -16,21 +24,15 @@ It introduces who I am, the projects I've done and what I am currently working<b
 - My Porfolio : some projects, a little description and techologies uses
 - Follow-me on Linkedin, GitHub
 - Form to send me a message if you want to contact me
-<br><br>
 
 ------
-
 ## Release History
 
-<details>
- <summary>1.0</summary>
- 01/04/2019 First version online
-</details>
+*  1.0
+    *  First version upload on Github
 
-<details>
- <summary>1.1</summary>
- Some modifications will comes soon ...
-</details>
+*  1.1
+    *  Convert the back-end in php framework 
 
 ------
 
@@ -38,4 +40,4 @@ It introduces who I am, the projects I've done and what I am currently working<b
 | Status        | Nom           | Version  |
 | --- | --- | --- |
 | :x: | Do in JS a verification on the form  | 1.1 |
-| ✅ | First push online | 1.0 |
+| ✅ | First upload on Github | 1.0 |
